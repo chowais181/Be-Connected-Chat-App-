@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266973675547",
+    "project_id": "chatapp-e9e11",
+    "storage_bucket": "chatapp-e9e11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266973675547:android:34ca928ca83a24216df8be",
+        "android_client_info": {
+          "package_name": "com.example.beconnected"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266973675547-11mmvgg9v6l0cgbdoj5ibhushgd91kdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUgPG7bdZbrC7U5gBNMq-Opsr3XIWZk_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266973675547-11mmvgg9v6l0cgbdoj5ibhushgd91kdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
