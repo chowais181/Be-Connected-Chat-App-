@@ -2,10 +2,11 @@
 
 
 ### View 
- ![project Display](https://github.com/chowais181/weather-app/blob/master/pics/view1.png)
+ ![project Display](https://github.com/chowais181/Be-Connected-Chat-App-/blob/main/output/Screenshot%202022-02-16%20at%208.57.23%20PM.png)
  
- ![project Display](https://github.com/chowais181/weather-app/blob/master/pics/view2.png)
-
+ ![project Display](https://github.com/chowais181/Be-Connected-Chat-App-/blob/main/output/Screenshot%202022-02-16%20at%208.57.41%20PM.png)
+ 
+ ![project Display](https://github.com/chowais181/Be-Connected-Chat-App-/blob/main/output/Screenshot%202022-02-16%20at%208.58.03%20PM.png)
 
 
 
